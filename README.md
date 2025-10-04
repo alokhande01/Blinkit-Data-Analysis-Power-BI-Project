@@ -17,7 +17,7 @@ The goal of this dashboard is to help stakeholders quickly understand performanc
 ## 📸 Dashboard Preview
 Here is a screenshot of the BlinkIt Power BI dashboard:
 
-![BlinkIt Dashboard](BlinkIt_Dashboard.png)
+![BlinkIt Dashboard](PowerBI%20Dashboard.png)
 
 ---
 
